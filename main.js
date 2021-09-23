@@ -1,3 +1,7 @@
+/**
+ * Dependency regression.js 
+ */
+
 const fixed_sc = 10;
 
 /**
